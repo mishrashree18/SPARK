@@ -1,6 +1,3 @@
-<p align="center">
-  <img alt="logo" width="100px" src="./public/favicon.svg">
-</p>
 <h1 align="center">Spark Healthlines</h1>
 
 <p align="center">
